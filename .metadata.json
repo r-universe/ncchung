@@ -1,0 +1,10 @@
+[
+  {
+    "package": "jaccard",
+    "oncran": true
+  },
+  {
+    "package": "jackstraw",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jaccard"]
+	path = jaccard
+	url = https://github.com/ncchung/jaccard
+	shallow = true
+	registered = true
+[submodule "jackstraw"]
+	path = jackstraw
+	url = https://github.com/ncchung/jackstraw
+	shallow = true
+	registered = true
